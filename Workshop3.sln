@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36623.8 d17.14
+VisualStudioVersion = 17.14.36623.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1", "Task1\Task1.csproj", "{9054E16A-5549-4E4D-9A53-B3680002AA2E}"
 EndProject
@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3", "Task3\Task3.csproj", "{26C25061-0A81-449B-8B3A-B3EEDFD7C9E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +28,10 @@ Global
 		{A82771F5-36C2-4429-88D2-BFF96211AA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A82771F5-36C2-4429-88D2-BFF96211AA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A82771F5-36C2-4429-88D2-BFF96211AA52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26C25061-0A81-449B-8B3A-B3EEDFD7C9E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26C25061-0A81-449B-8B3A-B3EEDFD7C9E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26C25061-0A81-449B-8B3A-B3EEDFD7C9E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26C25061-0A81-449B-8B3A-B3EEDFD7C9E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
